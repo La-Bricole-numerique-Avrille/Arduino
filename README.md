@@ -12,3 +12,4 @@
 
   * [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
   * [Arduino Nano 33 BLE](https://store.arduino.cc/products/nano-33-ble-sense-rev2)
+  * [Arduino UNO R4](https://store.arduino.cc/pages/uno-r4)
