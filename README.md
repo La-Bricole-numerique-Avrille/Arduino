@@ -6,7 +6,9 @@
    * [3 projets simples que vous pouvez réaliser avec Arduino](https://www.arduino-france.com/projets/3-projets-simples-que-vous-pouvez-realiser-avec-arduino)
  * [Tutoriels Arduino](https://www.upesy.fr/blogs/tutorials/arduino-tutorials)
 
+## Simulation
 
+ * [Wokwi - Online Arduino Simulator](https://wokwi.com/arduino) : Simulateur Arduino en ligne
 
 ## Cartes Arduino
 
