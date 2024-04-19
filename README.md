@@ -19,7 +19,7 @@
   * [Arduino Nano RP2040 Connect](https://store.arduino.cc/products/arduino-nano-rp2040-connect) : Carte Arduino Nano Connect basée sur un RP2040 avec Bluetooth, WiFi et capteur 6 degrés de liberté.
 
 ## Programmer
-
+### Arduino
   * [Arduino IDE](https://www.arduino.cc/en/software) Arduino IDE est un environnement de développement intégré (IDE) utilisé pour programmer des microcontrôleurs Arduino.
   
 ### MicroPython
