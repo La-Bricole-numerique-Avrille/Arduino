@@ -22,6 +22,7 @@
 ## Programmer
 ### Arduino
   * [Arduino IDE](https://www.arduino.cc/en/software) Arduino IDE est un environnement de développement intégré (IDE) utilisé pour programmer des microcontrôleurs Arduino.
+  * [Arduino Cloud](https://cloud.arduino.cc) : Programmer via son navigateur
   
 ### MicroPython
   * [Arduino MicroPython Installer](https://labs.arduino.cc/en/labs/micropython-installer) : outil pour installer le programme MicroPython dans une carte Arduino
