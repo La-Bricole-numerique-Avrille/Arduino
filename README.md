@@ -6,6 +6,7 @@
    * [3 projets simples que vous pouvez réaliser avec Arduino](https://www.arduino-france.com/projets/3-projets-simples-que-vous-pouvez-realiser-avec-arduino)
  * [Upesy - Tutoriels Arduino](https://www.upesy.fr/blogs/tutorials/arduino-tutorials)
  * [Developpez.com - Débuter avec l'IoT Cloud d'Arduino](https://arduino.developpez.com/iot-cloud-arduino/debuter) : vos premiers pas dans le monde des objets connectés
+ * [Matrice Led MAX7219 Arduino](https://passionelectronique.fr/matrice-led-max7219-arduino) : brochage, branchement / câblage, librairie, et exemples de code]
 
 ## Simulation
 
