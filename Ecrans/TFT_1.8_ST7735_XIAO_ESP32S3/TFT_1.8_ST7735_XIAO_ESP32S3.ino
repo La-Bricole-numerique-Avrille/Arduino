@@ -65,7 +65,7 @@ This library works with:
   an output. This is much faster - also required if you want
   to use the microSD card (see the image drawing example)
 */
-Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS,  TFT_DC, TFT_RST);
+Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 /*
   Option 2: use any pins but a little slower!
