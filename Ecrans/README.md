@@ -2,8 +2,7 @@
 
 ## Référentiels 
 
-* [LCD Wiki](https://www.lcdwiki.com) is an open source professional display sharing website.
-* ESP32-TFT-Touchscreen
+* [LCD Wiki](https://www.lcdwiki.com) est un site web open source de partage d'images professionnelles.
 
 ## Types
 
@@ -16,4 +15,6 @@ Voici les principaux types d'écran :
 
 ## Contrôleurs d'écrans tactiles
 
- * [XPT2046 Touchscreen Arduino Library](https://github.com/PaulStoffregen/XPT2046_Touchscreen)
+ * [XPT2046 Touchscreen Arduino Library](https://github.com/PaulStoffregen/XPT2046_Touchscreen): XPT2046_Touchscreen est une bibliothèque pour les contrôleurs d'écran tactile résistif XPT2046 utilisés sur de nombreux écrans TFT bon marché.
+
+
