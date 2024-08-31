@@ -15,8 +15,8 @@
 
 
 #include "SPI.h"
-#include "Adafruit_GFX.h"
-#include "Adafruit_ILI9341.h"
+#include "Adafruit_GFX.h"      // https://github.com/adafruit/Adafruit-GFX-Library
+#include "Adafruit_ILI9341.h"  // https://github.com/adafruit/Adafruit_ILI9341
 
 /*
   Adafruit EYESPI BFF for QT Py or XIAO
